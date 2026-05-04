@@ -54,10 +54,14 @@ npm run dev
 ## Tests
 
 Backend:
-npm run test  
+
+cd backend
+npm run test
 
 Frontend:
-npm run test  
+
+cd frontend
+npm run test
 
 ---
 
