@@ -38,30 +38,38 @@ Returns:
 ## How to run
 
 Backend:
+
 ```bash
-cd backend  
-npm install  
-npm run dev  
+cd backend
+npm install
+npm run dev
+```
 
 Frontend:
+
 ```bash
-cd frontend  
-npm install  
-npm run dev  
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
 ## Tests
 
 Backend:
+
 ```bash
 cd backend
 npm run test
+```
 
 Frontend:
+
 ```bash
 cd frontend
 npm run test
+```
 
 ---
 
